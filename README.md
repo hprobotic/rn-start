@@ -1,4 +1,4 @@
-# React Native Boilerplate [![Build Status](https://travis-ci.org/jhen0409/react-native-boilerplate.svg)](https://travis-ci.org/jhen0409/react-native-boilerplate) [![Dependency Status](https://david-dm.org/jhen0409/react-native-boilerplate.svg)](https://david-dm.org/jhen0409/react-native-boilerplate) [![devDependency Status](https://david-dm.org/jhen0409/react-native-boilerplate/dev-status.svg)](https://david-dm.org/jhen0409/react-native-boilerplate?type=dev)
+# React Native Boilerplate [![Build Status](https://travis-ci.org/hprobotic/rn-start.svg)](https://travis-ci.org/hprobotic/rn-start) [![Dependency Status](https://david-dm.org/hprobotic/rn-start.svg)](https://david-dm.org/hprobotic/rn-start) [![devDependency Status](https://david-dm.org/hprobotic/rn-start/dev-status.svg)](https://david-dm.org/hprobotic/rn-start?type=dev)
 
 > The React Native, Redux boilerplate for personal usage
 
